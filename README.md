@@ -1,7 +1,9 @@
 # Countries
-A Webpage to display the flag, population, language & curency of countries \
+A CRUD (Created - Record - Update - Delete) Website for a user who would like to keep a record of his/her reading collection electronically
 \
-Has 2 main functionality the Where Am I Functionality which displays country info based on your current location, and the Search Country Functionality which displays country info based on a country a use want to search for
+The Website enables users to Create, Record, Update, and Delte Books
+\
+The Website shows statistics about the books. First the website displays a Pie Chart to categorize Difference Book Genres. Second the website displays the total Number of Books and the total Number of Pages of all the books that the user have created.
 
 ## Webpage Link
 You can access this webpage through the following link: https://book-recorder.000webhostapp.com/
