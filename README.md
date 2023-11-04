@@ -10,6 +10,7 @@ The Website shows statistics about the books. First the website displays a Pie C
 ## Webpage Link
 You can access this webpage through the following link: https://book-reader-1.000webhostapp.com/index.php \
 If this link doesn't work try the following link instead: http://book-recorder.free.nf/
+. If both links don't work try to use a VPN
 
 ## Screenshots
 
