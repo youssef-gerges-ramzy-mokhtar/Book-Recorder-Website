@@ -8,7 +8,7 @@ The Website enables users to Create, Record, Update, and Delte Books
 The Website shows statistics about the books. First the website displays a Pie Chart to categorize Difference Book Genres. Second the website displays the total Number of Books and the total Number of Pages of all the books that the user have created.
 
 ## Webpage Link
-You can access this webpage through the following link:   https://book-reader-1.000webhostapp.com/index.php
+You can access this webpage through the following link: https://book-reader-1.000webhostapp.com/index.php \
 If this link doesn't work try the following link instead: http://book-recorder.free.nf/
 
 ## Screenshots
